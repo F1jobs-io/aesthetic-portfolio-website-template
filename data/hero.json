@@ -1,7 +1,7 @@
 {
   "_instructions": "Hero section content - the first thing visitors see on your portfolio.",
   "greeting": "Hi, I'm",
-  "name": "Adarsh Umesh",
+  "name": "Jordan Lee",
   "title": "Product Manager & Full-Stack Engineer",
   "summary": "Currently driving digital banking innovation at <strong>JPMorgan Chase & Co.</strong> with 5+ years of experience delivering user-focused, scalable solutions across finance and technology domains. Expertise in product strategy, roadmapping, and leading cross-functional teams with a strong technical foundation in full-stack development and agile methodologies.",
   "highlights": [
@@ -32,7 +32,7 @@
       },
       {
         "text": "Resume",
-        "href": "documents/Adarsh_Umesh_Resume.pdf",
+        "href": "assets/files/resume.pdf",
         "type": "secondary",
         "icon": "fas fa-download",
         "external": true
@@ -42,17 +42,17 @@
   "socialLinks": [
     {
       "platform": "GitHub",
-      "url": "https://github.com/adarshumesh5",
+      "url": "https://github.com/jordan-lee-demo",
       "icon": "fab fa-github"
     },
     {
       "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/adarsh-umesh",
+      "url": "https://linkedin.com/in/jordan-lee-demo",
       "icon": "fab fa-linkedin"
     },
     {
       "platform": "Email",
-      "url": "mailto:connect2adarshum@gmail.com",
+      "url": "mailto:jordan.lee@example.com",
       "icon": "fas fa-envelope"
     }
   ]

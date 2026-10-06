@@ -6,15 +6,15 @@
       "type": "email",
       "icon": "fas fa-envelope",
       "label": "Email",
-      "value": "connect2adarshum@gmail.com",
-      "href": "mailto:connect2adarshum@gmail.com"
+      "value": "jordan.lee@example.com",
+      "href": "mailto:jordan.lee@example.com"
     },
     {
       "type": "phone",
       "icon": "fas fa-phone",
       "label": "Phone",
-      "value": "+1 (747) 333-4258",
-      "href": "tel:+17473334258"
+      "value": "+1 (555) 014-2290",
+      "href": "tel:+15550142290"
     },
     {
       "type": "location",
@@ -27,15 +27,15 @@
       "type": "linkedin",
       "icon": "fab fa-linkedin",
       "label": "LinkedIn",
-      "value": "in/adarsh-umesh",
-      "href": "https://linkedin.com/in/adarsh-umesh"
+      "value": "in/jordan-lee-demo",
+      "href": "https://linkedin.com/in/jordan-lee-demo"
     },
     {
       "type": "github",
       "icon": "fab fa-github",
       "label": "GitHub",
-      "value": "@adarshumesh5",
-      "href": "https://github.com/adarshumesh5"
+      "value": "@jordan-lee-demo",
+      "href": "https://github.com/jordan-lee-demo"
     }
   ],
   "form": {
