@@ -1,13 +1,13 @@
 {
   "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
   "meta": {
-    "title": "Adarsh Umesh | Product Manager & Full-Stack Engineer",
-    "description": "Adarsh Umesh - Product Manager & Full-Stack Engineer | Portfolio",
-    "author": "Adarsh Umesh",
+    "title": "Jordan Lee | Product Manager & Full-Stack Engineer",
+    "description": "Jordan Lee - Product Manager & Full-Stack Engineer | Portfolio",
+    "author": "Jordan Lee",
     "keywords": "Product Manager, Full-Stack Engineer, Software Development, JPMorgan Chase, Portfolio"
   },
   "branding": {
-    "name": "Adarsh Umesh",
+    "name": "Jordan Lee",
     "tagline": "Product Manager & Full-Stack Engineer"
   },
   "settings": {

@@ -2,17 +2,17 @@
   "_instructions": "Footer content - copyright and social links.",
   "copyright": {
     "text": "All rights reserved.",
-    "name": "Adarsh Umesh",
+    "name": "Jordan Lee",
     "year": 2025
   },
   "links": [
     {
       "text": "GitHub",
-      "url": "https://github.com/adarshumesh5"
+      "url": "https://github.com/jordan-lee-demo"
     },
     {
       "text": "LinkedIn",
-      "url": "https://linkedin.com/in/adarsh-umesh"
+      "url": "https://linkedin.com/in/jordan-lee-demo"
     }
   ]
 }
